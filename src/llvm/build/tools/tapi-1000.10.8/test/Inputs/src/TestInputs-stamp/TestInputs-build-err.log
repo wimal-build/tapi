@@ -1,0 +1,5 @@
+cc: Fehler: x86_64: Datei oder Verzeichnis nicht gefunden
+cc: Fehler: unbekannte Kommandozeilenoption »-arch«
+make[5]: *** [ABrokenSymlink/CMakeFiles/ABrokenSymlink.dir/build.make:63: ABrokenSymlink/CMakeFiles/ABrokenSymlink.dir/ABrokenSymlink.m.o] Fehler 1
+make[4]: *** [CMakeFiles/Makefile2:91: ABrokenSymlink/CMakeFiles/ABrokenSymlink.dir/all] Fehler 2
+make[3]: *** [Makefile:130: all] Fehler 2

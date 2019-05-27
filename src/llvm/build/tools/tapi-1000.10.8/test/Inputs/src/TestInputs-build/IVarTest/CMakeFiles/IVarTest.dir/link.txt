@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC  -arch i386 -arch x86_64 -fobjc-arc -O3 -DNDEBUG -current_version 1 -compatibility_version 1 -shared -Wl,-soname,libIVarTest.so.1 -o libIVarTest.so.1 CMakeFiles/IVarTest.dir/IVarTest.m.o -lobjc -framework Foundation 

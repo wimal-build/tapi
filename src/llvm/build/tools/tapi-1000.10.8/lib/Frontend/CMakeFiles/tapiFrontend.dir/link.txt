@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../../../lib/libtapiFrontend.a  CMakeFiles/tapiFrontend.dir/APIVisitor.cpp.o CMakeFiles/tapiFrontend.dir/Frontend.cpp.o CMakeFiles/tapiFrontend.dir/FrontendContext.cpp.o
+/usr/bin/ranlib ../../../../lib/libtapiFrontend.a

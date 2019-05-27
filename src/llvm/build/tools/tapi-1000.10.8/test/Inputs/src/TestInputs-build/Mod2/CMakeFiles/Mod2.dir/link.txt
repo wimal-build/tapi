@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC  -arch x86_64 -O3 -DNDEBUG -current_version 1 -compatibility_version 1 -shared -Wl,-soname,libMod2.so.1 -o libMod2.so.1 CMakeFiles/Mod2.dir/Mod2.m.o 

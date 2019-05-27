@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC  -arch x86_64 -O3 -DNDEBUG -current_version 1.2.3 -compatibility_version 1 -shared -Wl,-soname,libDummy.extension.so.1 -o libDummy.extension.so.1.2.3 CMakeFiles/Dummy.dir/Dummy.m.o 

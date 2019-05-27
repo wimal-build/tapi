@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC  -arch x86_64 -O3 -DNDEBUG  -current_version 1 -compatibility_version 1 -shared -Wl,-soname,libBar.so.1 -o libBar.so.1 CMakeFiles/Bar.dir/Bar.m.o 

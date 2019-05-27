@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC  -arch i386 -arch x86_64 -O3 -DNDEBUG -current_version 1 -compatibility_version 1 -shared -Wl,-soname,libFoo.so.1 -o libFoo.so.1 CMakeFiles/InliningFoo.dir/Foo.m.o 

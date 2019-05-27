@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC  -arch i386 -arch x86_64 -O3 -DNDEBUG -current_version 1 -compatibility_version 1 -Wl,-reexport_library,ReexportAll/SourceLib/libSource.1.dylib -shared -Wl,-soname,libReexportAll.so.1 -o libReexportAll.so.1 CMakeFiles/ReexportAll.dir/Reexport.m.o SourceLib/libSource.so.1 -lobjc 

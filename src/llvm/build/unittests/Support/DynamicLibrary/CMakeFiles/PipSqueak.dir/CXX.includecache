@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/thomas/dev/apple-libtapi/src/llvm1/unittests/Support/DynamicLibrary/ExportedFuncs.cxx
+PipSqueak.h
+/home/thomas/dev/apple-libtapi/src/llvm1/unittests/Support/DynamicLibrary/PipSqueak.h
+
+/home/thomas/dev/apple-libtapi/src/llvm1/unittests/Support/DynamicLibrary/PipSqueak.cxx
+PipSqueak.h
+/home/thomas/dev/apple-libtapi/src/llvm1/unittests/Support/DynamicLibrary/PipSqueak.h
+ExportedFuncs.cxx
+/home/thomas/dev/apple-libtapi/src/llvm1/unittests/Support/DynamicLibrary/ExportedFuncs.cxx
+
+/home/thomas/dev/apple-libtapi/src/llvm1/unittests/Support/DynamicLibrary/PipSqueak.h
+string
+-
+vector
+-
+string
+-
+vector
+-
+

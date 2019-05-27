@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../../../lib/libclangDirectoryWatcher.a  CMakeFiles/clangDirectoryWatcher.dir/DirectoryWatcher.cpp.o
+/usr/bin/ranlib ../../../../lib/libclangDirectoryWatcher.a

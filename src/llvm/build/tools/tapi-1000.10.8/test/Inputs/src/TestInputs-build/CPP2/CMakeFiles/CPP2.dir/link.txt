@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -O3 -DNDEBUG  -current_version 1 -compatibility_version 1 -shared -Wl,-soname,libCPP2.so.1 -o libCPP2.so.1 CMakeFiles/CPP2.dir/CPP2.cpp.o 

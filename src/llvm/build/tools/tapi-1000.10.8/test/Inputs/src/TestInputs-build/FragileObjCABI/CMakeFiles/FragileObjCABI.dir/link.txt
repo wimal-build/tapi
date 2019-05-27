@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC  -arch i386 -arch x86_64 -O3 -DNDEBUG  -current_version 1 -compatibility_version 1 -shared -Wl,-soname,libFragileObjCABI.so.1 -o libFragileObjCABI.so.1 CMakeFiles/FragileObjCABI.dir/FragileObjCABI.m.o -lobjc 

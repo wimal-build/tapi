@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC  -fprofile-instr-generate -O3 -DNDEBUG  -current_version 1 -compatibility_version 1 -shared -Wl,-soname,libFooCC.so.1 -o libFooCC.so.1 CMakeFiles/FooCC.dir/Foo.m.o 

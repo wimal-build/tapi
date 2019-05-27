@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC  -arch x86_64 -O3 -DNDEBUG -current_version 1 -compatibility_version 1 -shared -Wl,-soname,libSpecialLinkerSymbols.so.1 -o libSpecialLinkerSymbols.so.1 CMakeFiles/SpecialLinkerSymbols.dir/SpecialLinkerSymbols.c.o 

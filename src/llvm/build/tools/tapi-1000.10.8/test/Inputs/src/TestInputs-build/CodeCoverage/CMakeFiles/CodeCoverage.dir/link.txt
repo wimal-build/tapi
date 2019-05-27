@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC  -fprofile-instr-generate -O3 -DNDEBUG  -current_version 1 -compatibility_version 1 -fprofile-instr-generate -shared -Wl,-soname,libCodeCoverage.so.1 -o libCodeCoverage.so.1 CMakeFiles/CodeCoverage.dir/CodeCoverage.m.o 

@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC  -arch x86_64 -fobjc-arc -O3 -DNDEBUG -current_version 1 -compatibility_version 1 -shared -Wl,-soname,libIVarExtensionTest.so.1 -o libIVarExtensionTest.so.1 CMakeFiles/IVarExtensionTest.dir/IVarExtensionTest.m.o -lobjc -framework Foundation 

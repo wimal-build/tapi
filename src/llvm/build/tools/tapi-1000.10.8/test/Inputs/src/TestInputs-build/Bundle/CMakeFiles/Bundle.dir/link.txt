@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC  -arch x86_64 -arch i386 -O3 -DNDEBUG  -shared  -o Bundle CMakeFiles/Bundle.dir/bundle.m.o -lobjc -framework Foundation -framework CoreData 

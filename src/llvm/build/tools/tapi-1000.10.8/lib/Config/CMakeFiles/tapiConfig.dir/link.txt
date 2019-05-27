@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../../../lib/libtapiConfig.a  CMakeFiles/tapiConfig.dir/Version.cpp.o
+/usr/bin/ranlib ../../../../lib/libtapiConfig.a

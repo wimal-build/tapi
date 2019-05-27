@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/llvm/Demangle/Demangle.h
+cstddef
+-
+
+../include/llvm/Support/Compiler.h
+llvm/Config/llvm-config.h
+../include/llvm/Support/llvm/Config/llvm-config.h
+sal.h
+-
+sanitizer/msan_interface.h
+-
+sanitizer/asan_interface.h
+-
+
+/home/thomas/dev/apple-libtapi/src/llvm1/lib/Demangle/ItaniumDemangle.cpp
+llvm/Demangle/Demangle.h
+/home/thomas/dev/apple-libtapi/src/llvm1/lib/Demangle/llvm/Demangle/Demangle.h
+llvm/Support/Compiler.h
+/home/thomas/dev/apple-libtapi/src/llvm1/lib/Demangle/llvm/Support/Compiler.h
+algorithm
+-
+cctype
+-
+cstdlib
+-
+cstring
+-
+numeric
+-
+string
+-
+vector
+-
+
+include/llvm/Config/llvm-config.h
+

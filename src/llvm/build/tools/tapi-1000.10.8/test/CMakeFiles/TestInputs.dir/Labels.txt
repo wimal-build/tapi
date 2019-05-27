@@ -1,0 +1,14 @@
+# Target labels
+ TestInputs
+# Source files and their labels
+/home/thomas/dev/apple-libtapi/src/llvm1/build/tools/tapi-1000.10.8/test/CMakeFiles/TestInputs
+/home/thomas/dev/apple-libtapi/src/llvm1/build/tools/tapi-1000.10.8/test/CMakeFiles/TestInputs.rule
+/home/thomas/dev/apple-libtapi/src/llvm1/build/tools/tapi-1000.10.8/test/CMakeFiles/TestInputs-complete.rule
+/home/thomas/dev/apple-libtapi/src/llvm1/build/tools/tapi-1000.10.8/test/Inputs/src/TestInputs-stamp/TestInputs-install.rule
+/home/thomas/dev/apple-libtapi/src/llvm1/build/tools/tapi-1000.10.8/test/Inputs/src/TestInputs-stamp/TestInputs-mkdir.rule
+/home/thomas/dev/apple-libtapi/src/llvm1/build/tools/tapi-1000.10.8/test/Inputs/src/TestInputs-stamp/TestInputs-download.rule
+/home/thomas/dev/apple-libtapi/src/llvm1/build/tools/tapi-1000.10.8/test/Inputs/src/TestInputs-stamp/TestInputs-update.rule
+/home/thomas/dev/apple-libtapi/src/llvm1/build/tools/tapi-1000.10.8/test/Inputs/src/TestInputs-stamp/TestInputs-patch.rule
+/home/thomas/dev/apple-libtapi/src/llvm1/build/tools/tapi-1000.10.8/test/Inputs/src/TestInputs-stamp/TestInputs-configure.rule
+/home/thomas/dev/apple-libtapi/src/llvm1/build/tools/tapi-1000.10.8/test/Inputs/src/TestInputs-stamp/TestInputs-build.rule
+/home/thomas/dev/apple-libtapi/src/llvm1/build/tools/tapi-1000.10.8/test/Inputs/src/TestInputs-stamp/TestInputs-forceconfigure.rule

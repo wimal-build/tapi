@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/thomas/dev/apple-libtapi/src/llvm1/build/tools/tapi-1000.10.8/test/CMakeFiles/TestInputs"
+		},
+		{
+			"file" : "/home/thomas/dev/apple-libtapi/src/llvm1/build/tools/tapi-1000.10.8/test/CMakeFiles/TestInputs.rule"
+		},
+		{
+			"file" : "/home/thomas/dev/apple-libtapi/src/llvm1/build/tools/tapi-1000.10.8/test/CMakeFiles/TestInputs-complete.rule"
+		},
+		{
+			"file" : "/home/thomas/dev/apple-libtapi/src/llvm1/build/tools/tapi-1000.10.8/test/Inputs/src/TestInputs-stamp/TestInputs-install.rule"
+		},
+		{
+			"file" : "/home/thomas/dev/apple-libtapi/src/llvm1/build/tools/tapi-1000.10.8/test/Inputs/src/TestInputs-stamp/TestInputs-mkdir.rule"
+		},
+		{
+			"file" : "/home/thomas/dev/apple-libtapi/src/llvm1/build/tools/tapi-1000.10.8/test/Inputs/src/TestInputs-stamp/TestInputs-download.rule"
+		},
+		{
+			"file" : "/home/thomas/dev/apple-libtapi/src/llvm1/build/tools/tapi-1000.10.8/test/Inputs/src/TestInputs-stamp/TestInputs-update.rule"
+		},
+		{
+			"file" : "/home/thomas/dev/apple-libtapi/src/llvm1/build/tools/tapi-1000.10.8/test/Inputs/src/TestInputs-stamp/TestInputs-patch.rule"
+		},
+		{
+			"file" : "/home/thomas/dev/apple-libtapi/src/llvm1/build/tools/tapi-1000.10.8/test/Inputs/src/TestInputs-stamp/TestInputs-configure.rule"
+		},
+		{
+			"file" : "/home/thomas/dev/apple-libtapi/src/llvm1/build/tools/tapi-1000.10.8/test/Inputs/src/TestInputs-stamp/TestInputs-build.rule"
+		},
+		{
+			"file" : "/home/thomas/dev/apple-libtapi/src/llvm1/build/tools/tapi-1000.10.8/test/Inputs/src/TestInputs-stamp/TestInputs-forceconfigure.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"TestInputs"
+		],
+		"name" : "TestInputs"
+	}
+}

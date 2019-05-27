@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC  -arch x86_64 -O3 -DNDEBUG -current_version 1 -compatibility_version 1 -shared -Wl,-soname,libABrokenSymlink.so.1 -o libABrokenSymlink.so.1 CMakeFiles/ABrokenSymlink.dir/ABrokenSymlink.m.o 

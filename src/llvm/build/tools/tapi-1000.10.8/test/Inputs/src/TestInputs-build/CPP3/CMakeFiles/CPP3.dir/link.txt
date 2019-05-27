@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -O3 -DNDEBUG  -current_version 1 -compatibility_version 1 -shared -Wl,-soname,libCPP3.so.1 -o libCPP3.so.1 CMakeFiles/CPP3.dir/CPP3.cpp.o 

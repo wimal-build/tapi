@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC  -arch x86_64 -O3 -DNDEBUG  -current_version 1 -compatibility_version 1 -umbrella test -shared -Wl,-soname,libSubFramework.so.1 -o libSubFramework.so.1 CMakeFiles/SubFramework.dir/SubFramework.c.o 
